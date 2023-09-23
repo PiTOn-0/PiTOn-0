@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%0A360E&center=true&vCenter=true&lines=Script+Install+Pritunl+BY+Alone" />
 </p>
 
-<p align='center'><a href><img src="https://raw.githubusercontent.com/PiTOn-0/Alone/main/Alone.png?r=82s" width="450"/></a></p>
+<p align='center'><a href><img src="https://raw.githubusercontent.com/PiTOn-0/PiTOn-0/main/IMG_20230923_090636.jpg?r=82s" width="450"/></a></p>
 
 <p align="center">
 <img height=21 src="https://komarev.com/ghpvc/?username=PiTOn-0">
