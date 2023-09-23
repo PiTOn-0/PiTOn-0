@@ -6,16 +6,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%0A360E&center=true&vCenter=true&lines=Script+Install+Pritunl+BY+Alone" />
 </p>
 
-<p align='center'><a href><img src="https://raw.githubusercontent.com/PiTOn-0/PiTOn-0/main/IMG_20230923_090636.jpg?r=82s" width="450"/></a></p>
-
 <p align="center">
 <img height=21 src="https://komarev.com/ghpvc/?username=PiTOn-0">
 </p>
-<div height='45' align="center">
-<h2> ❄โ❂௮თัՁ aণع ツ<br>
-<a href="https://line.me/ti/p/9ek7tJnEmF"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/line.svg" height='50'> </a>
-</h2>
-</div>
+
+<p align='center'><a href><img src="https://raw.githubusercontent.com/PiTOn-0/PiTOn-0/main/IMG_20230923_090636.jpg?r=82s" width="450"/></a></p>
 
 # INSTALL SCRIPT ON TERMUX
 
