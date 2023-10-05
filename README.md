@@ -28,16 +28,17 @@ cd Alone
 bash ubuntu20 หรือ ubuntu18
 ```
 # INSTALL SCRIPT ON JUICE SSH
-<p align="left"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=18.04 LTS&color=%173e16">
-  
+<p align="left"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=18.04 LTS&color=%173e16"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=20.04 LTS&color=%173e16"></p>
+
+***Ubuntu18.04***
 ```
 wget -O Alone www.script-U18.kozow.com
 ```
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=20.04 LTS&color=%173e16"></p>
+***Ubuntu20.04***
 ```
 wget -O Alone www.script-U20.kozow.com
 ```
-***คำสั่งติดตั้ง Copy Run***
+***install Copy Run***
 ```
 bash Alone
 ```
