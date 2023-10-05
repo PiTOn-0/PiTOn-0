@@ -1,6 +1,6 @@
 # Alone
 - ***SCRIPT INSTALL PRITUNL***
-- ***SCRIPT RUN ON TERMUX && JUICE SSH***
+  
   
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%0A360E&center=true&vCenter=true&lines=Script+Install+Pritunl+BY+Alone" />
@@ -11,23 +11,6 @@
 </p>
 
 <p align='center'><a href><img src="https://raw.githubusercontent.com/PiTOn-0/PiTOn-0/main/IMG_20230923_090636.jpg?r=82s" width="450"/></a></p>
-
-# INSTALL SCRIPT ON TERMUX
-
-<p align="left"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=18.04 LTS&color=%173e16"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=20.04 LTS&color=%173e16"></p>
-
-```
-pkg update -y && pkg upgrade -y
-pkg install openssh -y
-pkg install wget -y
-pkg install git
-ssh user@ip server
-git clone https://github.com/PiTOn-0/Alone.git
-ls
-cd Alone
-bash ubuntu20 หรือ ubuntu18
-```
-# INSTALL SCRIPT ON JUICE SSH
 <p align="left"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=18.04 LTS&color=%173e16"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=20.04 LTS&color=%173e16"></p>
 
 ***Ubuntu18.04***
